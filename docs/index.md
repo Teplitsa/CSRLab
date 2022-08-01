@@ -1,5 +1,6 @@
 ---
 layout: default
+encoding: UTF-8
 ---
 
 {% include lab-logo.PNG %}
