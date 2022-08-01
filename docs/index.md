@@ -2,8 +2,6 @@
 layout: default
 ---
 
-{% include lab-logo.PNG %}
-
 ## Civil Society Research Lab
 
 ### [Изучение географической пренадлежности хостингов НКО](./hostings.md)
