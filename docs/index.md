@@ -10,4 +10,4 @@ layout: default
 
 {% include ngo_hostings_geografically.html %}
 
-### [Статистика по страницам ВК у НКО](./vk_analysis.md)
+### [Статистика по страницам ВК у НКО](./vk_analysis.md) 
