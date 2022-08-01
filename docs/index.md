@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="./assets/img/lab-logo.PNG" alt="Logo" />
+{% include lab-logo.PNG %}
 
 ## Civil Society Research Lab
 
