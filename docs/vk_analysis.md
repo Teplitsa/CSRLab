@@ -1,1 +1,5 @@
-{% include vk_basic_stats.html %}
+---
+layout: page
+---
+
+Some text
