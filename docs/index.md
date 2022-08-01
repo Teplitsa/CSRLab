@@ -1,6 +1,5 @@
 ---
 layout: default
-encoding: UTF-8
 ---
 
 ## Civil Society Research Lab
