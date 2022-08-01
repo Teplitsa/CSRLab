@@ -3,8 +3,6 @@ layout: default
 encoding: UTF-8
 ---
 
-{% include lab-logo.PNG %}
-
 ## Civil Society Research Lab
 
 ### [Изучение географической пренадлежности хостингов НКО](./hostings.md)
