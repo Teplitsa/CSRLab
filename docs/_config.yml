@@ -24,9 +24,13 @@ social:
 
 #timezone: Etc/UTC
 
+#emoji:
+#  src: "https://github.githubassets.com/images/icons/"
+
 permalink: pretty
 
 plugins:
+  - jemoji
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
