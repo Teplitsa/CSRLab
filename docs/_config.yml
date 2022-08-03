@@ -30,11 +30,10 @@ social:
 permalink: pretty
 
 plugins:
-  - jemoji
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
-#  - jekyll/figure
+#  - jemoji
 #  - jekyll/tzinfo
 
 exclude:
