@@ -2,7 +2,7 @@
 title: Civil Society Research Lab
 ---
 
-[Check out our official website!![:boom:](https://raw.githubusercontent.com/Teplitsa/CSRLab/main/docs/images/boom.png)](http://lab.te-st.ru/) There we publish extended blog-posts about our research
+[Check out our official website!<img src ="https://raw.githubusercontent.com/Teplitsa/CSRLab/main/docs/images/boom.png" width="30" height="30" alt="boom">](http://lab.te-st.ru/) There we publish extended blog-posts about our research
 
 The CSRLab was established at Teplitsa. Technologies for Social Good in 2021 to research civil society online communication practices. The main focus is on the Russian-registered NGOs.
 
