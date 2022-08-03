@@ -33,8 +33,14 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+#  - jekyll-emoji
 #  - jemoji
 #  - jekyll/tzinfo
+
+#emoji:
+#  format: emojione-svg # default html
+#  ascii: true # default false
+#  shortname: true # default true
 
 exclude:
   - Gemfile
