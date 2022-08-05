@@ -9,6 +9,7 @@ This repository contains data collected by the CSRLab, scripts for data mining a
 - `notebooks` - the Lab work-log
 - `plots` - infographics
 - `source-code` - scripts for data mining and processing
+- `Skillfactory x Teplitsa Lab` - datasets collected during Skillfactory hackathon
 
 ---------
 
@@ -23,3 +24,4 @@ This repository contains data collected by the CSRLab, scripts for data mining a
 - `notebooks` - рабочие журналы Лаборатории
 - `plots` - инфографика
 - `source-code` - скрипты для скачивания и преобразования данных
+- `Skillfactory x Teplitsa Lab` - данные собранные во время хакатона Skillfactory
