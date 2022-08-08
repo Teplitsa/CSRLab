@@ -1,6 +1,7 @@
 ---
 title: Mindmap
 category: Research Directions
+menu_order: 4
 order: 1
 ---
 

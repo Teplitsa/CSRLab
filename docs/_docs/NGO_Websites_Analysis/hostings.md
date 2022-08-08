@@ -1,6 +1,7 @@
 ---
 title: Hostings Geografically
 category: NGO Websites Analysis
+menu_order: 2
 order: 1
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Overall Database Structure
 category: Our Data
+menu_order: 1
 order: 2
 ---
 
