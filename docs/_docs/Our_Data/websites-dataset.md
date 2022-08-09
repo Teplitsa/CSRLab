@@ -56,4 +56,3 @@ You can download .csv dataset with seo metrics [here](https://github.com/Teplits
 }
 ```
 
-* insert visualisations from Dada's conference presentations (because they are cool)

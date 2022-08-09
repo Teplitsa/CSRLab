@@ -10,10 +10,9 @@ Research aims:
 - Topic modelling of posts\comments on VKontakte for the sake of filtering real non-profit organisations from other groups (e.g. blogs, news, organisations that has nothing to do with civil society)
 - Hate speech detection in comments on VKontakte
 
-`TO DO:`
+### Engagement rates preliminary analysis:
 
-- organise basic VK stats into a dashboard with basic html includes
-- or make a link to heroku app with Dash dashboard \Streamlit`
+{% include rate_by_members.html %}
 
-`graphs with basic stats here`
+{% include rate_by_views.html %}
 
