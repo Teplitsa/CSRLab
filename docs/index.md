@@ -6,9 +6,11 @@ title: Civil Society Research Lab
 
 The CSRLab was established at Teplitsa. Technologies for Social Good in 2021 to research civil society online communication practices. The main focus is on the Russian-registered NGOs.
 
+<center> What do we do? Researching **non-reactive** data concerning NGOs with data science methods </center>
+
 ### Our data
 
-> 9k NGOs in our dataset!
+> Over 9k NGOs in our dataset!
 
 `TO DO: overview of the dataset` 
 
