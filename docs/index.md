@@ -12,7 +12,7 @@ The CSRLab was established at Teplitsa. Technologies for Social Good in 2021 to 
 
 > Over 9k NGOs in our dataset!
 
-Read about the structure of our dataset and our database: [dataset with websites](./_docs/Our_Data/websites-dataset.md) and [MongoDb database structure](./_docs/Our_Data/database-structure.md).
+Read about the structure of our dataset and our database: [dataset with websites](./Our_Data/websites-dataset/) and [MongoDB database structure](./Our_Data/database-structure).
 
 ### On-going research:
 
@@ -27,5 +27,5 @@ Read about the structure of our dataset and our database: [dataset with websites
 
 ### Check out some of our analytics:
 
-* [Изучение географической пренадлежности хостингов НКО](./_docs/NGO_Websites_Analysis/hostings.md)
-* [Статистика по страницам ВК у НКО](./_docs/NGO_Social_Media_Analysis/vk_analysis.md) 
+* [Geographical Distribution of NGO Websites Hostings](./NGO_Websites_Analysis/hostings)
+* [Statistics on Vkontakte Social Media Pages](./NGO_Social_Media_Analysis/vk_analysis) 
