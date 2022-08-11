@@ -29,3 +29,7 @@ Read about the structure of our dataset and our database: [dataset with websites
 
 * [Geographical Distribution of NGO Websites Hostings](./NGO_Websites_Analysis/hostings)
 * [Statistics on Vkontakte Social Media Pages](./NGO_Social_Media_Analysis/vk_analysis) 
+
+<br>
+
+[Link to our github repo <link rel="git" type="image/png" href="https://raw.githubusercontent.com/Teplitsa/CSRLab/main/docs/images/github-logo.PNG" sizes="192x192">](https://github.com/Teplitsa/CSRLab)
