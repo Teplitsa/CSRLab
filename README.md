@@ -10,7 +10,7 @@ The CSRLab focuses on the online communications of the third-sector via their we
 
 ### Data
 
-> <b>non-reactive data</b> collected by means of web scrapping and through APIs. The use of non-reactive data is a principle demand for us, an effort to overcome the limitations of previous studies that used biased samples or self-survey data. By collecting and analyzing data in house, we try to avoid subjective assessments made by NGO representatives.
+> <b>Non-reactive data</b> collected by means of web scrapping and through APIs. The use of non-reactive data is a principle demand for us, an effort to overcome the limitations of previous studies that used biased samples or self-survey data. By collecting and analyzing data in house, we try to avoid subjective assessments made by NGO representatives.
 
 By August 2022 our sample contains 13k+ :fire: organizations and communities (both legally registered in Russia and not-registered legally anywhere).
 
