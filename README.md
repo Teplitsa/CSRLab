@@ -4,13 +4,13 @@
 
 The CSRLab is a data-driven research project for the Russian civil society online communication practices.
 
-> ** Mission:** evaluating of communicative capacity of the Russian-language third sector and establishing best communicative practices. The communicative capacity indicates the organization’s ability to undertake work aimed at conveying the most important information to beneficiaries, donors, and society at large (especially if the organization engages in advocacy work).
+> <b>Mission:</b> evaluating of communicative capacity of the Russian-language third sector and establishing best communicative practices. The communicative capacity indicates the organization’s ability to undertake work aimed at conveying the most important information to beneficiaries, donors, and society at large (especially if the organization engages in advocacy work).
 
 The CSRLab focuses on the online communications of the third-sector via their websites and social media. We investigate both officially established organizations (registered by Russian authorities as a non-commercial organization) and non-registered communities of activists and their organistaions. Examples of the later communities is anti-war and humanitarian movements that multiplied across Russia and abroad after Russia invaded Ukraine in Februrary 2022.
 
 ### Data
 
-> ** non-reactive data** collected by means of web scrapping and through APIs. The use of non-reactive data is a principle demand for us, an effort to overcome the limitations of previous studies that used biased samples or self-survey data. By collecting and analyzing data in house, we try to avoid subjective assessments made by NGO representatives.
+> <b>non-reactive data</b> collected by means of web scrapping and through APIs. The use of non-reactive data is a principle demand for us, an effort to overcome the limitations of previous studies that used biased samples or self-survey data. By collecting and analyzing data in house, we try to avoid subjective assessments made by NGO representatives.
 
 By August 2022 our sample contains 13k+ :fire: organizations and communities (both legally registered in Russia and not-registered legally anywhere).
 
