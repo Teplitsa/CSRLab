@@ -1,16 +1,21 @@
 # [Civil Society Research Lab](http://lab.te-st.ru/)
 
-The CSRLab was established at Teplitsa. Technologies for Social Good in 2021 to research civil society online communication practices. The main focus is on the Russian-registered NGOs.
+### Aim
 
-By August 2022 our sample contains:
+The CSRLab is a data-driven research project for the Russian civil society online communication practices.
 
-- 13k+ websites
-- 3k+ VK pages
-- 3k+ FB pages
-- 3k+ IG pages
-- 7k+ Telegram channels
+**> Mission:** evaluating of communicative capacity of the Russian-language third sector and establishing best communicative practices. The communicative capacity indicates the organization’s ability to undertake work aimed at conveying the most important information to beneficiaries, donors, and society at large (especially if the organization engages in advocacy work).
 
-This repository contains data collected by the CSRLab, scripts for data mining and transformation, and infographics. Narrative reports (in Russian) on data gathering and processing are published on the Lab website - [lab.te-st.ru](http://lab.te-st.ru/u). 
+The CSRLab focuses on the online communications of the third-sector via their websites and social media. We investigate both officially established organizations (registered by Russian authorities as a non-commercial organization) and non-registered communities of activists and their organistaions. Examples of the later communities is anti-war and humanitarian movements that multiplied across Russia and abroad after Russia invaded Ukraine in Februrary 2022.
+
+### Data
+
+**> non-reactive data** collected by means of web scrapping and through APIs. The use of non-reactive data is a principle demand for us, an effort to overcome the limitations of previous studies that used biased samples or self-survey data. By collecting and analyzing data in house, we try to avoid subjective assessments made by NGO representatives.
+
+By August 2022 our sample contains 13k+ :fire: organizations and communities (both legally registered in Russia and not-registered legally anywhere).
+
+This repository contains data collected by the CSRLab, scripts for data mining and transformation, and infographics. Narrative reports (in Russian) on data gathering and processing are published on the Lab website - [lab.te-st.ru](http://lab.te-st.ru/u). English short version of reports are present on [github pages](https://teplitsa.github.io/CSRLab/).
+
 
 | folder  | content |
 | ------------- | ------------- |
