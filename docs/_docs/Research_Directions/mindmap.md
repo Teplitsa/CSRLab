@@ -12,6 +12,6 @@ order: 1
 
 ### CSRLab communication concepts:
 
-{% include communication_channels.jpg %}
+<img src ="https://raw.githubusercontent.com/Teplitsa/CSRLab/main/docs/images/communication-channels.jpg" alt="communication-channels">
 
-{% include subject-communication.jpg %}
+<img src ="https://raw.githubusercontent.com/Teplitsa/CSRLab/main/docs/images/subject-communication.jpg" alt="subject-communication">
