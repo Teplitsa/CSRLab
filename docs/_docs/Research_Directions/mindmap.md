@@ -10,4 +10,8 @@ order: 1
 - Non-registered non-profit organisations communication practices
 - Hate speech detection both in comments and in posts and defining the cause for hate speech
 
-<mindmap>
+### CSRLab communication concepts:
+
+{% include communication_channels.jpg %}
+
+{% include subject-communication.jpg %}
