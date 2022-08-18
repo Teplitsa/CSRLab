@@ -7,7 +7,7 @@ order: 1
 
 ### CSRLab communication concepts
 
-Different subjects of communication communicate through different channels and means:
+Different subjects of communication communicate through different channels and means. We want to cover all types of non-reactive data at hand.
 
 Types of channels that we research:
 
