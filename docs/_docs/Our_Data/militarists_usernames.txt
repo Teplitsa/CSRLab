@@ -30,7 +30,6 @@ VUC_OPSB
 voronhse
 refugee_assistance
 spastidonbass
-military_ombudsmen
 NW_1423
 dobro_dnr
 odsd_dnr
