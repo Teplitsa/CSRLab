@@ -9,8 +9,12 @@ type: minor
 
 * First version of the dashboard about effectiveness of the website in development
 
-**Parameters:**
+**Fixes:**
+
+* Clean up the double rows in the dataset
+
+**Stats:**
 
 | Civil society actors in Gryadka - websites (including the non-registered and the ones that already closed) | Including, telegram channels (channels that were scrapped from websites) | Civil society actors in Gryadka - telegram channels (standalone channels) | Number of collected parameters for websites | Number of collected parameters for telegram | Number of collected parameters for vkontakte |
 | - | - | - | - | - | - |
-| 13509 | 534 | 195 | 161 | 37 | 13 |
+| 9524 | 534 | 195 | 161 | 37 | 13 |
