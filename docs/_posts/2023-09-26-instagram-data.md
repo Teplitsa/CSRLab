@@ -11,10 +11,10 @@ type: minor
 
 **Stats:**
 
-| Civil society actors in Gryadka - websites (including the non-registered and the ones that already closed) | Including, telegram channels (channels that were scrapped from websites) | Civil society actors in Gryadka - telegram channels (standalone channels) |
-| - | - | - |
-| 9524 | 495 | 195 |
+| Civil society actors in Gryadka - websites (including the non-registered and the ones that already closed) | Including, telegram channels (channels that were scrapped from websites) | Civil society actors in Gryadka - telegram channels (standalone channels) | Instagram accounts that were scrapped from websites | Standalone Instagram accounts (from Kovcheg)|
+| - | - | - | - | - |
+| 9524 | 495 | 195 | 422 | 93 |
 
-| Number of collected parameters for websites | Number of collected parameters for telegram | Number of collected parameters for vkontakte | Number of collected parameters for instagram |
+| Number of collected parameters for websites | Number of collected parameters for Telegram | Number of collected parameters for Vkontakte | Number of collected parameters for Instagram |
 | - | - | - | - |
 | 161 | 37 | 13 | 20 |
